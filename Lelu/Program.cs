@@ -14,7 +14,8 @@ builder.Services.AddCors(options =>
         {
             policy.WithOrigins("http://example.com",
                                 "http://localhost:3000",
-                                "http://www.contoso.com");
+                                "http://www.contoso.com",
+                                "https://thunderous-starship-eb7cd4.netlify");
         });
 });
 
