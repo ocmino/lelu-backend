@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WS\\Lelu\\Lelu\\Lelu.csproj": {}
+    "C:\\WS\\lelu-backend\\Lelu\\Lelu.csproj": {}
   },
   "projects": {
-    "C:\\WS\\Lelu\\Lelu\\Lelu.csproj": {
+    "C:\\WS\\lelu-backend\\Lelu\\Lelu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WS\\Lelu\\Lelu\\Lelu.csproj",
+        "projectUniqueName": "C:\\WS\\lelu-backend\\Lelu\\Lelu.csproj",
         "projectName": "Lelu",
-        "projectPath": "C:\\WS\\Lelu\\Lelu\\Lelu.csproj",
+        "projectPath": "C:\\WS\\lelu-backend\\Lelu\\Lelu.csproj",
         "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\WS\\Lelu\\Lelu\\obj\\",
+        "outputPath": "C:\\WS\\lelu-backend\\Lelu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",

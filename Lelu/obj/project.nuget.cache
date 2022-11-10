@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rRJebR6PiVBQZP0n+UgYWRYBHgAg1MNIwYhNUfthOqp9ePxCcDh37V9YxakHdCmR1s4itNxmr3Yl1k12bLYGEQ==",
+  "dgSpecHash": "T5UUBrTofbdL6Iga1bkhpbFvQgYlLNWHiQ8jVc61MkhBYfLP7Nt9BXY/gH0EAuJwosJdA77ebW5W4hWNWFmI8A==",
   "success": true,
-  "projectFilePath": "C:\\WS\\Lelu\\Lelu\\Lelu.csproj",
+  "projectFilePath": "C:\\WS\\lelu-backend\\Lelu\\Lelu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\info\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\info\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
